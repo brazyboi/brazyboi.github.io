@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>$pagetitle$</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="main.css">
+		<link rel="icon" href="favicon.svg">
+		<meta name="description" content=$desc$>
+	</head>
+	<body>
+		<nav>
+			<a class="nav home" href="">Home</a>
+			<a class="nav link" href="journal">Journal</a>
+			<a class="nav link" href="projects">Projects</a>
+		</nav>
+		<main>
+		$body$
+		</main>
+		<footer>
+			<div>lz</div>
+		</footer>
+	</body>
+</html>
