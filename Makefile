@@ -1,15 +1,15 @@
 .PHONY: all html
 
-all: build build/main.css html
+all: docs docs/main.css html
 
-build:
-	mkdir build
+docs:
+	mkdir docs
 
-clean: build
-	rm -r build/*.html 
+clean: docs
+	rm -r docs/*.html 
 
 html: 
 	./gen-html.sh
 
-build/main.css: build
-	ln -sf ../main.css build/main.css
+docs/main.css: docs
+	ln -sf ../main.css docs/main.css
