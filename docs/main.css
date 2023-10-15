@@ -24,3 +24,38 @@ footer {
 	margin-top: 3rem;
 }
 
+}
+
+@media (max-width: 360px) {
+	nav {
+		flex-direction: column;
+	}
+}
+
+a.nav {
+	color: black;
+	text-decoration: none;
+}
+
+a.nav:hover {
+	text-decoration: underline;
+}
+
+a.nav:visited {
+	color: black;
+}
+
+a.nav-home {
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin-right: auto;
+}
+
+a.nav-link {
+	font-size: 1.25rem;
+	display: flex;
+	align-items: center;
+}
+
+
+
