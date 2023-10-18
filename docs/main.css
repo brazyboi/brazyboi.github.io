@@ -24,8 +24,6 @@ footer {
 	margin-top: 3rem;
 }
 
-}
-
 @media (max-width: 360px) {
 	nav {
 		flex-direction: column;
