@@ -3,15 +3,15 @@
 	<head>
 		<title>$pagetitle$</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="main.css">
+		<link rel="stylesheet" href="./main.css">
 		<link rel="icon" href="favicon.svg">
 		<meta name="description" content=$desc$>
 	</head>
 	<body>
 		<nav>
-			<a class="nav home" href="index.html">Home</a>
-			<a class="nav link" href="journal.html">Journal</a>
-			<a class="nav link" href="projects.html">Projects</a>
+			<a class="nav nav-home" href="index.html">Home</a>
+			<a class="nav nav-link" href="journal.html">Journal</a>
+			<a class="nav nav-link" href="projects.html">Projects</a>
 		</nav>
 		<main>
 		$body$
