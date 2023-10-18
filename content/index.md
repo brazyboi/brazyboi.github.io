@@ -1,5 +1,5 @@
 ---
-title: Lucas Zhong's Page
+title: Lucas Zhong
 desc: This Lucas Zhong's website (UCI Class of 2027).
 --- 
 
