@@ -19,8 +19,6 @@
 			/*to prevent Firefox FOUC, this must be here*/
 			let FF_FOUC_FIX;
 		</script>
-		<div class="logo">
-		</div>
 		$body$
 		</main>
 		<footer>
