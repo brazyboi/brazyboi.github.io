@@ -3,9 +3,9 @@ title: Lucas Zhong
 desc: This Lucas Zhong's website (UCI Class of 2027).
 --- 
 
-# Lucas Zhong's Page
+# Hey there, I'm Lucas Zhong. 
 
-Hello, I'm Lucas Zhong, a first-year computer science major at UCI, starting from Fall '23. For now, I'll be hosting this on GitHub pages, though I hope to get a RPI or OPI to host this server on. I'll be detailing my struggles with balancing college and life.
+I'm a first-year computer science major at UCI, starting from Fall '23. For now, I'll be hosting this on GitHub pages, though I hope to get a RPI or OPI to host this server on. I'll be detailing my struggles with balancing college and life.
 
 ## A new beginning, I guess
 
