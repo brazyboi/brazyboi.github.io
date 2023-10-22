@@ -11,5 +11,5 @@ clean: docs
 html: 
 	./gen-html.sh
 
-# docs/main.css: docs
-	# ln -sf ../main.css docs/main.css
+docs/main.css: docs
+	cat ./main.css > docs/main.css
