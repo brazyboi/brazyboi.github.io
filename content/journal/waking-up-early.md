@@ -1,5 +1,6 @@
 ---
 title: Waking up early
+date: 2023-10-21
 desc: Or rather, 7 AM.
 ---
 

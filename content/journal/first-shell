@@ -1,0 +1,12 @@
+---
+title: Writing my first shell script
+desc: That's actually useful. 
+---
+
+## Context
+
+I actually really felt the need to make a personal website for a long time, but I always held it off. I think that's because I had this kind-of-desire to make a perfect and pretty website on the first try, but not only did I face many roadblocks with learning frameworks that would allow me to do so, the mental barrier was insurmountable at times. 
+
+Eventually, I decided "fuck all" and just made a straight static HTML and CSS website, just so I have something up runninng. It's probably too early to say, but having a website kind of forces me to update often and self-reflect, and I could see it as a motivator for some programs I'm writing right now.
+
+Anyways, the main point of this post is not to drabble on and on about my reasons for making the website. In the process of making this website, I got the idea from a friend to use pandoc to convert Markdown to HTML, which saves the hassle of having to write a HTML file for every page.
