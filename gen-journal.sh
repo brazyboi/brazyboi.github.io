@@ -21,7 +21,7 @@ HTML="$(find content/journal -print | grep -E \.md | while IFS= read -r md_path;
 	done)"
 
 journal_title="Journal"
-journal_desc="A place to type out some thoughts."
+journal_desc="A place to type out some thoughts, I guess."
 
 # Insert list items
 echo "<ul class=\"posts\">" $(echo "$HTML" | sort -k 4,4r -k 2,2rM -k 3,3rn) "</ul>" | \
