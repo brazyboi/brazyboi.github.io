@@ -19,6 +19,7 @@
 			/*to prevent Firefox FOUC, this must be here*/
 			let FF_FOUC_FIX;
 		</script>
+		<h1>$pagetitle$</h1>	
 		$body$
 		</main>
 		<footer>
