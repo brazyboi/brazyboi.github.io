@@ -1,12 +1,12 @@
 # Create output path
-OUTPUT="build/journal/index.html"
+OUTPUT="docs/journal/index.html"
 mkdir -p "${OUTPUT%/*}/"
 
 # Convert .md to .html
 find content/journal -print | grep -E \.md | while IFS= read -r md_path; do
 	if [ ! $md_path = "content/journal/index.md" ] 
 	then 
-		build_path=$(echo $md_path | sed 's/content/build/' - | sed 's/\.md/\.html/' -)
+		build_path=$(echo $md_path | sed 's/content/docs/' - | sed 's/\.md/\.html/' -)
 		pandoc --template=page.template $md_path -p > $build_path
 	fi
 done
