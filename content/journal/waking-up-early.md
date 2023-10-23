@@ -4,8 +4,6 @@ date: 2023-10-21
 desc: Or rather, 7 AM.
 ---
 
-# Waking up early
-
 So I've started waking up rather early, at around 7 to 7:30 AM. Considering the earliest of my classes on MWF is at 9:00 AM, there really isn't an obvious reason to wake up this early, especially since I'm not a morning person at all. But I do have this knack for being able to pop right out of bed as soon my alarm sounds, and I imagine myself looking pretty silly while springing up from the mattress. 
 
 Either way, I feel like I need some peace before going to class, perhaps to get all of my lazy and sleepy vibe outta me, if that makes sense. If it weren't obvious enough, waking up 10 minutes before a class isn't really enough time to mentally prepare yourself, much less physically pack all your shit. Though my classes are a cakewalk right now (they just have a crap ton of homework load for absolutely no reason), I feel as if keeping up this habit is somehow beneficial to my productivity. I'm not one to really point my fingers at a specific cause for this, nor do I know if this is correlation or coincidence, but I'll trust my gut feeling with this one. After all, it's gotten me to write this at 1 AM in the fucking morning.
