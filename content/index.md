@@ -5,6 +5,7 @@ title: Home
 # Lucas Zhong
 
 Hello! I'm Lucas, and this is my website. I'm a student at UC Irvine studying computer science and pure mathematics. Some of my interests, in no particular order, are:
+
 - Game development
     - Godot Engine
     - Gameplay/visual development
