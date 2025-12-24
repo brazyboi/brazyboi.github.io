@@ -25,6 +25,7 @@ Hello! I'm Lucas, and this is my website. I'm a student at UC Irvine studying co
 
 ## Purpose of this website
 I started this website to track my development journeys and to document anything I've learned. I also want to improve at writing. Some goals I have are:
+
 - Learn Rust / some systems programming language
 - Musically produce full songs more frequently, even if they're all mediocre
 - Get deeper into math
