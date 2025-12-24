@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Lucas Zhong
+# Home
 
 Hello! I'm Lucas, and this is my website. I'm a student at UC Irvine studying computer science and pure mathematics. Some of my interests, in no particular order, are:
 
