@@ -50,3 +50,8 @@ a.nav-link {
     font-size: x-large;
     margin: 0rem 0.5rem;    
 }
+
+footer {
+    margin: 0 auto;    
+    text-align: center;
+}
