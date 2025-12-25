@@ -15,7 +15,7 @@
 }
 
 html {
-    font-family: 'Fira Sans';
+    font-family: 'Fira Sans', system-ui, sans-serif;
     background-color: var(--bg-primary);
     color: var(--text-primary);
     max-width: 800px;
